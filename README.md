@@ -118,3 +118,7 @@ stuff for years:
   kata world for ages
 
 The Rust versions, stubs and test layouts are written for this repo.
+
+## License
+
+MIT. Use it, fork it, run it in a workshop. See [LICENSE](LICENSE).
