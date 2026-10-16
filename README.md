@@ -30,6 +30,17 @@ cargo test -p fizzbuzz
 
 It'll fail. That's supposed to happen.
 
+## New to Rust? Start with the basics
+
+If you're still getting used to the language, do the drills in
+[`basics/`](basics/README.md) first. They're ten short files on ownership,
+borrowing, `Option`, `Result`, iterators, traits and so on, with most of the
+tests already written. Once those feel okay, come back to the katas.
+
+```bash
+cargo test -p rust-basics ownership
+```
+
 ## How a kata works
 
 Every kata lives in `katas/NN-name/` and has two files that matter:
